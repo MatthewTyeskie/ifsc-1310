@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Specifies the document title -->
+    <title>University of Arkansas at Little Rock: A Brief History</title>
+    
+    <!-- Defines metadata for search engines -->
+    <meta name="description" content="A brief history of UA Little Rock, including academics, student life, campus living, athletics, and archives">
+    
+    <!-- Defines the author of the document -->
+    <meta name="author" content="Matyeskie">
+    
+    <!-- Sets character encoding -->
+    <meta charset="UTF-8">
+</head>
+<body>
+    <main>
+        <header>
+            <h1>University of Arkansas at Little Rock: A Brief History</h1>
+            <img src="ualr.png" alt="UA Little Rock Logo" width="200" height="200">
+        </header>
+        
+        <nav>
+            <ul>
+                <li><a href="index.html" title="Home">Home</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/University_of_Arkansas_at_Little_Rock" title="About">About</a></li>
+                <li><a href="https://ualr.edu/" target="_blank" title="UALR">UALR</a></li>
+                <li><a href="mailto:matyeskie@ualr.edu" title="Contact">Contact</a></li>
+            </ul>
+        </nav>
+        
+        <section id="history">
+            <h2>History</h2>
+            <p>The University of Arkansas at Little Rock (UA Little Rock) is a public research university in Little Rock, Arkansas. Established as Little Rock Junior College by the Little Rock School District in 1927, the institution became a private four-year university under the name Little Rock University in 1957. It returned to public status in 1969 when it merged with the University of Arkansas System under its present name. The former campus of Little Rock Junior College is now (2019) the campus of Philander Smith University.</p>
+        </section>
+        
+        <section id="academics">
+            <h2>Academics</h2>
+            <p>UA Little Rock offers more than 100 undergraduate degrees and 60 graduate degrees, including graduate certificates, master's degrees, and doctorates, through both traditional and online courses.</p>
+            <ul>
+                <li>College of Business, Health, and Human Services</li>
+                <li>College of Humanities, Arts, Social Sciences, and Education</li>
+                <li>Donaghey College of Science, Technology, Engineering, and Mathematics</li>
+                <li>William H. Bowen School of Law</li>
+            </ul>
+        </section>
+        
+        <section id="student-life">
+            <h2>Student Life</h2>
+            <p>The student body composition as of May 2, 2022:</p>
+            <ul>
+                <li>White: 48%</li>
+                <li>Black: 27%</li>
+                <li>Other: 15%</li>
+                <li>Hispanic: 4%</li>
+                <li>Foreign National: 3%</li>
+                <li>Asian: 2%</li>
+                <li>Native American: 1%</li>
+            </ul>
+            <p>The student life at UA Little Rock is characterized by student-run organizations supporting social, academic, athletic, and religious activities. Services include intramural sports, fitness programs, diversity programs, leadership development, peer tutoring, student government, and fraternity/sorority life.</p>
+        </section>
+        
+        <section id="campus-living">
+            <h2>Campus Living</h2>
+            <p>UA Little Rock provides various on-campus living options, ranging from traditional resident rooms to multiple-bedroom apartments. The university has four residence halls and the University Village Apartment Complex. There are six learning communities focusing on different academic and professional paths.</p>
+        </section>
+        
+        <section id="athletics">
+            <h2>Athletics</h2>
+            <p>UA Little Rock's 14 athletic teams, known as the Little Rock Trojans, compete in the Sun Belt Conference. The university does not sponsor football but offers the following sports:</p>
+            <ul>
+                <li>Baseball</li>
+                <li>Men's and Women's Basketball</li>
+                <li>Men's and Women's Golf</li>
+                <li>Women's Volleyball</li>
+                <li>Women's Soccer</li>
+                <li>Women's Swimming/Diving</li>
+                <li>Men's and Women's Cross Country</li>
+                <li>Men's and Women's Track and Field (Indoor and Outdoor)</li>
+                <li>Men's Wrestling</li>
+            </ul>
+            <p>Wrestling, which started in 2019, is the first Division I program in Arkansas. UA Little Rock moved to the Ohio Valley Conference for the 2022-23 season.</p>
+        </section>
+        
+        <section id="archives">
+            <h2>Collections and Archives</h2>
+            <p>On July 1, 2014, the UA Little Rock Collections and Archives division was created. It includes:</p>
+            <ul>
+                <li>Ottenheimer Library</li>
+                <li>Center for Arkansas History and Culture</li>
+                <li>Sequoyah National Research Center</li>
+            </ul>
+        </section>
+        
+        <footer>
+            <h6>&copy; 2025 Matyeskie | <a href="mailto:matyeskie@ualr.edu">Email Me</a> | <a href="#top">Back to Top</a></h6>
+        </footer>
+    </main>
+</body>
+</html>
